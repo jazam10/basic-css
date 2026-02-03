@@ -4,6 +4,15 @@ body{
 
 h1{
     text-align: center;
+    font-size: 40pt;
+}
+
+h2{
+    font-size: 30pt;
+}
+
+h3{
+    font-size: 20pt;
 }
 
 #paragraph2{
