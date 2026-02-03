@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue;
+    background-color: green;
 }
 
 h1{
@@ -10,7 +10,7 @@ h1{
     border:5px solid green;
     height: auto;
     width: 25%;
-    background-color: black;
+    background-color: white;
 }
 
 #p4{
@@ -47,3 +47,4 @@ th{
     background-color: lightgrey;
 
 }
+
